@@ -8,9 +8,9 @@ You can also open/close the server from there.
 ## Configuration
 | Name | Type | Description |
 | :---: | :---: | :--- |
-| __ownerName__ | string | This should be your in-game name on Realms, case-sensitive. |
-| __externalAddress__ | string | The server external IP or domain. [Get your IP](http://www.whatismyip.com/) |
-| __externalPort__ | integer | The port to access the server. __It must be forwarded, if not, players won't be able to join the server.__ [Port Forwarding](http://portforward.com/) |
+| MCPEListClaimServer| string | This should be your in-game name on Realms, case-sensitive. |
+| 0.0.0.0 | string | The server external IP or domain. [Get your IP](http://www.whatismyip.com/) |
+| 19132 | integer | The port to access the server. __It must be forwarded, if not, players won't be able to join the server.__ [Port Forwarding](http://portforward.com/) |
 
 
 ## Usage
